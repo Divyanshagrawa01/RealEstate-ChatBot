@@ -1,0 +1,26 @@
+streamlit
+# Backend
+fastapi
+uvicorn[standard]
+python-dotenv
+
+# AI Agent & RAG
+langchain
+langchain-openai
+langgraph
+langchain-chroma
+langchain-community
+
+# Vector Database & Embeddings
+chromadb
+
+# Web Scraping
+requests
+beautifulsoup4
+lxml
+
+# Data Processing
+pandas>=2.2.3,<3.0.0
+
+# Utilities
+pydantic
